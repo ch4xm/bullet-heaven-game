@@ -1,10 +1,14 @@
-# Framework for CMPM 121
+# Bullet-Heaven Roguelike
+Created for CMPM 121 at UCSC, I developed a Unity-based game with C# similar to Vampire Survivors. The player starts as a with a basic weapon, and can gain randomized powerups through spells (with modifiers) and relics (passive abilities that give some benefit) as they progress through the waves.
 
-This framework is for the class CMPM 121 - Game Development Patterns. It was developed in Unity version 6000.0.23f, but should also work in other Unity versions. 
+## Compatibility
+
+This game was developed in Unity version 6000.0.23f, but should also work in other Unity versions. 
+
 
 ## Artwork
 
-All art used in this framework was released under CC-0. 
+All art used in this framework was released under CC-0.
 
 Spell and relic icons:
 https://opengameart.org/content/dungeon-crawl-32x32-tiles
